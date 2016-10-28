@@ -35,13 +35,20 @@ p {
 dl {
   font-family: Georgia, serif;
   font-size: .875rem;
+  overflow: hidden;
 }
 
 dt{
-
+float: left;
+clear: left;
+overflow: hidden;
+width: 50%;
 }
 
 dd {
+  float: left;
+  width: 50%;
+  margin: 0;
   font-style: italic;
 
 }
@@ -67,3 +74,6 @@ nav a {
   text-decoration: none;
   color: #fff;
 }
+
+/* hover color button #512200
+hover body div color #dcd4cd */
