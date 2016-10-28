@@ -19,3 +19,8 @@ h2 {
   font-size: 1.5;
 
 }
+.border-box {
+  border: 2px solid #cabdb2;
+  border-left: none;
+  border-right: none;
+}
