@@ -61,3 +61,10 @@ nav {
   color: #fff;
 }
 
+nav a {
+  font-family: 'Dosis', sans-serif;
+  font-size: 1.5;
+  font-weight: 700;
+  text-decoration: none;
+  color: #fff;
+}
