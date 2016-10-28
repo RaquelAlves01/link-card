@@ -6,7 +6,7 @@ html {
   box-sizing: inherit;
 }
 .link-card {
-  background-color: #dcd4cd;
+  background-color: #f0eee8;
   border: 3px solid #9a816d;
   border-radius: 8px;
   padding: 0 1rem;
@@ -17,7 +17,7 @@ h2 {
   font-family: 'Dosis', sans-serif;
   font-weight: 700;
   font-size: 1.5;
-
+  margin: 1rem 0;
 }
 
 p {
@@ -27,7 +27,7 @@ p {
 }
 
 .border-box {
-  border: 2px solid #cabdb2;
+  border: 2px solid #9a816d;
   border-left: none;
   border-right: none;
 }
