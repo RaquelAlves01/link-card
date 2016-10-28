@@ -31,3 +31,18 @@ p {
   border-left: none;
   border-right: none;
 }
+
+dl {
+  font-family: Georgia, serif;
+  font-size: .875rem;
+}
+
+dt{
+
+}
+
+dd {
+  font-style: italic;
+
+}
+
