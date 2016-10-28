@@ -21,7 +21,9 @@ h2 {
 }
 
 p {
-  
+  font-family: Georgia, serif;
+  font-size: 1.5;
+  line-height: 1.5;
 }
 
 .border-box {
