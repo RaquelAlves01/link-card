@@ -72,5 +72,7 @@ a {
   background-color: #cabdb2;
 }
 
-/* hover color button #512200
-hover body div color #dcd4cd */
+nav a:hover {
+  background-color: #512200;
+  border: 3px solid #512200;
+}
