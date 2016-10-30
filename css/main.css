@@ -56,14 +56,16 @@ nav {
   text-align: center;
 }
 
-nav {
-  text-align: center;
-  margin: 1rem;
-  padding:.4em .75em .5em;
+a {
+  font-family: Dosis, sans-serif;
+  text-decoration: none;
+  color: #fff;
   display: inline-block;
-  border: 3px solid #785439;
+  border: 3px solid #f0eee8;
   background-color: #785439;
   border-radius: 8px;
+  margin: 1rem;
+  padding: .4em .75em .5em;
 }
 
 nav a {
