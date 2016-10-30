@@ -35,6 +35,8 @@ dl {
   font-family: Georgia, serif;
   font-size: .875rem;
   overflow: hidden;
+  line-height: 1.5;
+  padding: .1rem;
 }
 
 dt {
