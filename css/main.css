@@ -68,12 +68,8 @@ a {
   padding: .4em .75em .5em;
 }
 
-nav a {
-  font-family: 'Dosis', sans-serif;
-  font-size: 1.5;
-  font-weight: 700;
-  text-decoration: none;
-  color: #fff;
+.link-card:hover {
+  background-color: #cabdb2;
 }
 
 /* hover color button #512200
