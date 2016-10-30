@@ -5,8 +5,9 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
 .link-card {
-  background-color: #f0eee8;
+  background-color: #dcd4cd;
   border: 3px solid #9a816d;
   border-radius: 8px;
   padding: 0 1rem;
