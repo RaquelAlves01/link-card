@@ -22,7 +22,6 @@ html {
 
 p {
   font-family: Georgia, serif;
-  font-size: 1.5;
   line-height: 1.5;
 }
 
@@ -38,11 +37,11 @@ dl {
   overflow: hidden;
 }
 
-dt{
-float: left;
-clear: left;
-overflow: hidden;
-width: 50%;
+dt {
+  float: left;
+  clear: left;
+  overflow: hidden;
+  width: 50%;
 }
 
 dd {
@@ -53,7 +52,7 @@ dd {
 
 }
 
-.btn {
+nav {
   text-align: center;
 }
 
