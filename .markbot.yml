@@ -15,6 +15,10 @@ html:
     valid: true
     bestPractices: true
     has:
+        - "a.link-card"
+        - ['a h2', 'Expected to see an `<h2>`. It makes sense to use an `<h2>` in this situation, instead of an `<h1>`, because this card would be part of a larger website.']
+        - "a dl"
+        - "a .btn"
     has_not:
       - "hr"
     search:
