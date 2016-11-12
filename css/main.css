@@ -60,12 +60,12 @@ dd {
 }
 
 a {
-  font-family: Dosis, sans-serif;
+  font-family: 'Dosis', sans-serif;
   text-decoration: none;
-  color: #fff;
+  color: #f0eee8;
   font-size: 1.125;
   display: inline-block;
-  border: 3px solid #f0eee8;
+  border: 3px solid #785439;
   background-color: #785439;
   border-radius: 8px;
   margin: 1rem;
@@ -76,7 +76,7 @@ a {
   background-color: #cabdb2;
 }
 
-nav a:hover {
+.link-card:hover a {
   background-color: #512200;
   border: 3px solid #512200;
 }
